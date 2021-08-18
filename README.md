@@ -1,16 +1,24 @@
-# conversor_de_moedas
 
-A new Flutter project.
+<h1 align="center">
+<br>
+  <img src="![image](https://user-images.githubusercontent.com/64441839/129821724-07df32eb-ca8e-4155-9d1f-8d0921d4e3d0.png)" alt="YOUR_PROJECT_NAME" width="100">
+<br>
+<br>
+Stopwatch
+</h1>
 
-## Getting Started
+<p align="center">A powerful yet simple currency converter, Currency provides up-to-date exchange rates for over the main currencies! Great for when you travel abroad. </p>
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+[//]: # (Add your gifs/images here:)
+<div align="center">
+  <img src="" alt="demo" height="525">
+</div>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Features
+[//]: # (Add the features of your project here:)
+This app features all the latest tools and practices in mobile development!
+
+- ⏩ **Flutter** — A open-source UI software development kit created by Google. 
