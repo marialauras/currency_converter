@@ -1,10 +1,10 @@
 
 <h1 align="center">
 <br>
-  <img src="![image](https://user-images.githubusercontent.com/64441839/129821724-07df32eb-ca8e-4155-9d1f-8d0921d4e3d0.png)" alt="YOUR_PROJECT_NAME" width="100">
+  <img src="https://image.winudf.com/v2/image1/Y29tLmFuZHJvbW8uZGV2NDMwMDgxLmFwcDM5MjgxMl9pY29uXzE1NTEwNTMyNjNfMDEw/icon.png?w=&fakeurl=1" alt="YOUR_PROJECT_NAME" width="100">
 <br>
 <br>
-Stopwatch
+Currency Convertet
 </h1>
 
 <p align="center">A powerful yet simple currency converter, Currency provides up-to-date exchange rates for over the main currencies! Great for when you travel abroad. </p>
